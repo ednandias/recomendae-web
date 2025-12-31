@@ -1,0 +1,5 @@
+# Default SPA redirect - Comment out during maintenance
+ [[redirects]]
+   from = "/*"
+   to = "/index.html"
+   status = 200
