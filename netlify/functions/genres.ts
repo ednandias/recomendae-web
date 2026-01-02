@@ -9,7 +9,6 @@ const handler: Handler = async (event: HandlerEvent, _: HandlerContext) => {
     'Access-Control-Allow-Methods': 'GET, OPTIONS',
   };
 
-
   // Handle preflight
   if (event.httpMethod === 'OPTIONS') {
     return {
