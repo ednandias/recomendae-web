@@ -15,5 +15,5 @@
   status = 200
 
 [dev]
-  targetPort = 3000
+  targetPort = 4173
   port = 8888  
