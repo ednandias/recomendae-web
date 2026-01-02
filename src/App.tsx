@@ -196,7 +196,7 @@ function App() {
                     size={25}
                     color="#210340"
                   />
-                  Recomendaê
+                  Recomendaí
                 </>
               )}
             </button>
@@ -278,7 +278,7 @@ function App() {
                           size={25}
                           color="#210340"
                         />
-                        Recomendaê
+                        Recomendaí
                       </>
                     )}
                   </button>
